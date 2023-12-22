@@ -1,0 +1,15 @@
+[
+    {
+        "name" : "Home", "link" : "home.html", "content" : "This is the home page"
+    }
+    , 
+    {
+        "name" : "About", "link" : "about.html", "content" : "This is the about page"
+    },
+    {
+        "name" : "License", "link" : "license.html", "content" : "This is the license page"
+    }, 
+    {
+        "name" : "Register", "link" : "register.html", "content" : "This is the registration page"
+    }
+]
